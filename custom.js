@@ -66,9 +66,7 @@ window.snake.more_menu = function(e) {
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
-  document.querySelector('#speed').appendChild(img);
-
- 
+  document.querySelector('#speed').appendChild(img); 
 
   // lightning
   img = new Image;
