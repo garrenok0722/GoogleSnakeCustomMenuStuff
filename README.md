@@ -7,7 +7,7 @@ window.snake.more_menu();
 ```
 Or simply click the bookmark.
 
-## Contributors
+## Creators(I am just adding some stuff to their code on https://github.com/DarkSnakeGang/GoogleSnakeCustomMenuStuff)
 * [Fishes](https://github.com/fizhes)
 * [ScienceCrafter](https://github.com/ScienceCrafter)
 * [BrightyLighty](https://github.com/BrightyLighty), technically 
