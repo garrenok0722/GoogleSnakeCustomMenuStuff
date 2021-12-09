@@ -10,7 +10,7 @@ window.snake.more_menu = function(e) {
 
   // test
   img = new Image;
-  img.src = 'https://i.postimg.cc/zDtwPccz/3124.png';
+  img.src = 'https://i.postimg.cc/d1vX4VVS/3124-1.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
