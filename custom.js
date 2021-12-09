@@ -15,6 +15,13 @@ window.snake.more_menu = function(e) {
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
+  // test
+  img = new Image;
+  img.src = 'https://postimg.cc/jW5Wj1Vm';
+  img.width = 47;
+  img.height = 47;
+  document.querySelector('#size').appendChild(img);
+
   // super big
   img = new Image;
   img.src = 'https://i.postimg.cc/mg4wkHK8/superbig-1.png';
